@@ -1,1 +1,1 @@
-# niceshares-niceshares.github.io
+niceshares.github.io
